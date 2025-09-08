@@ -5,6 +5,10 @@ DSR Joy2Key config
 Community-ready JoyToKey configuration that enables controller play in *Digimon Super Rumble* on Windows.
 This repo/post includes the actual `.cfg` and quick instructions so anyone can import and play fast.
 
+note this is made for the Rog ally handheld, so other keys are not mapped, as you  can use the touchscreen to select skills mid-fight and enemy digimons.
+
+You may change it as you wish, and it's it is most comfortable for you
+
 > Tested on Windows 11 + JoyToKey v6.x (ROG Ally).  
 > Last updated: 2025-09-08
 
